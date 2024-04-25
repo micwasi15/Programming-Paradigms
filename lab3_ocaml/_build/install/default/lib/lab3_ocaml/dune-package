@@ -1,0 +1,4 @@
+(lang dune 3.6)
+(name lab3_ocaml)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (lab3_ocaml.exe)))

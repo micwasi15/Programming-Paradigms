@@ -1,0 +1,4 @@
+(executable
+ (public_name lab7_ocaml)
+ (name main)
+ (libraries lab7_ocaml))
